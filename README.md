@@ -10,7 +10,7 @@ Before you try to run the game, make sure to install pygame. If you have problem
 
 2. Right click the folder and choose extract all
 
-3. Open the Project in an IDE that is able to run with python
+3. Open the Project in an IDE that is able to run with python (for example Pycharm)
 ![alt text](https://github.com/iOwN-Climber/Learning-Game-Codejam/blob/main/assets/2.PNG)
 
 4. Run the file main.py and enjoy the game :)
