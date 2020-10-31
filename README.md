@@ -1,5 +1,5 @@
 # Learning-Game-Codejam
-Learn Vocabularies, solve chemichal euqations or do some programming problems
+Learn Vocabularies, solve chemical euqations or do some programming problems
 
 We are using the following modules: pygame, random
  
